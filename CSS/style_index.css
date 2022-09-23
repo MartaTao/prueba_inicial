@@ -1,0 +1,41 @@
+.principal{
+    float:left;
+    width: 75%;
+    margin: 20px;
+    background-color: aliceblue;
+}
+.secundario{
+    width: 25%;
+    background-color: red;
+    
+}
+p{
+    margin: 20px;
+}
+h1{
+    margin: 20px;
+}
+nav ul{
+    list-style: none;
+    text-align: right;
+    margin: 20px;
+    font-size: 20px;
+}
+nav ul a{
+    text-decoration: none;
+    color:black;
+    background-color: cornflowerblue;
+    border-radius: 12px;
+    border: 5px solid #ffffe6;
+    
+}
+nav ul li{
+    margin-bottom: 20px;
+}
+header{
+    background-color: red;
+    background-image: url("../images/lego.png");
+    background-position: center;
+    padding: 110px;
+    background-repeat: no-repeat;
+}
