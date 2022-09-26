@@ -35,10 +35,3 @@ nav ul a{
 nav ul li{
     margin-bottom: 20px;
 }
-header{
-    background-color: red;
-    background-image: url("../images/lego.png");
-    background-position: center;
-    padding: 110px;
-    background-repeat: no-repeat;
-}
